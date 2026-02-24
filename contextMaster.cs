@@ -9,6 +9,7 @@ namespace oncopoleLib
 {
     public class contextMaster
     {
+
         public bool aPlanIsloaded { get; set; }
         public contextMaster(ScriptContext ctx)
         {

@@ -18,6 +18,7 @@ namespace oncopoleLib
             {
                 aPlanIsloaded = false;
             }
+            // thhis is a modification by LS
         }
     }
 }

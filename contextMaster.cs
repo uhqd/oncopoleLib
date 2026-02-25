@@ -18,7 +18,7 @@ namespace oncopoleLib
             {
                 aPlanIsloaded = false;
             }
-            // thhis is a modification by LS
+            // thhis is a modification by LS to test the git commit and push
         }
     }
 }

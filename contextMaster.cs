@@ -11,19 +11,26 @@ namespace oncopoleLib
     {
 
         public bool aPlanIsloaded { get; set; }
-        public contextMaster(ScriptContext ctxFS)
+        public contextMaster(ScriptContext ctx99)
         {
             aPlanIsloaded = true;
-            if (ctx.PlanSetup == null)
+            if (ctx99.PlanSetup == null)
             {
                 aPlanIsloaded = false;
             }
-            // thhis is a modification by LS to test the git commit and push
+            // thhis is a modification by LS to test the git commit and push  e
 
 
             // LUC MODIFIE
 
             // LUC sur la bracnhe LUIC
+
+            // Blo Blo Blo
+
+            // Bla Bla Bla
+
+
+            //  BLIBLI 
         }
     }
 }

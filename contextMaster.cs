@@ -11,10 +11,10 @@ namespace oncopoleLib
     {
 
         public bool aPlanIsloaded { get; set; }
-        public contextMaster(ScriptContext ctx4)
+        public contextMaster(ScriptContext ctx99)
         {
             aPlanIsloaded = true;
-            if (ctx4.PlanSetup == null)
+            if (ctx99.PlanSetup == null)
             {
                 aPlanIsloaded = false;
             }
